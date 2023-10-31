@@ -32,7 +32,7 @@ const allMovies = [
         image: image3,
         title: "Rocknrolla",
         age: "+16",
-        tags: "Gangster * Napínavý * Násilí",
+        tags: "Gangster * Napínavý * Násilie",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
     },
     {
@@ -40,7 +40,7 @@ const allMovies = [
         image: image4,
         title: "Patriot",
         age: "+16",
-        tags: "Gangster * Napínavý * Násilí",
+        tags: "Gangster * Napínavý * Násilie",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
     },
     {
@@ -48,7 +48,7 @@ const allMovies = [
         image: image5,
         title: "Telefon pana Harrigana",
         age: "+16",
-        tags: "Gangster * Napínavý * Násilí",
+        tags: "Gangster * Napínavý * Násilie",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
     },
     {
@@ -64,13 +64,13 @@ const allMovies = [
         image: image7,
         title: "Život",
         age: "+13",
-        tags: "Vesmír * Napínavý * Nebezpečí",
+        tags: "Vesmír * Napínavý * Nebezpečie",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
     },
     {
         id: 8,
         image: image8,
-        title: "Kód za miliardu dolarů",
+        title: "Kód za miliardu dolarov",
         age: "+13",
         tags: "IT * Napínavý",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
@@ -88,7 +88,7 @@ const allMovies = [
         image: image10,
         title: "Whoami",
         age: "+13",
-        tags: "Gangster * Napínavý * Násilí",
+        tags: "Gangster * Napínavý * Násilie",
         description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem accusantium amet nemo minus quo architecto quas",
     },
 ]
